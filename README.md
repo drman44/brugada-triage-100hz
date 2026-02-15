@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18649820.svg)](https://doi.org/10.5281/zenodo.18649820)
+
+
 # brugada-triage-100hz
 
 Open and reproducible deep learning pipeline for confidence-gated (selective referral) triage of Brugada syndrome from low-resolution resting ECG (100 Hz) using the PhysioNet Brugada-HUCA dataset.
