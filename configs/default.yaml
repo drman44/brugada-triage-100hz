@@ -1,0 +1,19 @@
+seed: 42
+
+data:
+  root: "data/brugada-huca/1.0.0"
+  fs: 100
+  leads: ["V1", "V2", "V3"]
+  out_dir: "outputs"
+
+cv:
+  n_splits: 3
+
+train:
+  epochs: 50
+  batch_size: 32
+  lr: 0.001
+
+triage:
+  target_specificity: 0.90
+  tau_locked: 0.555
