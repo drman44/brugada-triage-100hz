@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Brugada Triage CNN"
+message: "If you use this code, please cite our work."
+authors:
+  - family-names: "Isleyen"
+    given-names: "Hasan Burak"
+year: 2026
+version: 1.0.0
